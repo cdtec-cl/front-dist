@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/frontend/precache-manifest.085b9f61f99ca1f9abd58fc4533ed698.js"
+  "/frontend/precache-manifest.bd397f7bf369c14b1dae44c68e32c0d1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cdtec-platform-frontend"});
